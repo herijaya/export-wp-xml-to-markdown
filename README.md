@@ -1,5 +1,6 @@
 # export-wp-xml-to-markdown
-export wp xml to markdown
+export wp xml to markdown for project : 
+https://github.com/herijaya/maxsi.id
 step :
 1. export wp content
 2. create "output" folder on directory project
