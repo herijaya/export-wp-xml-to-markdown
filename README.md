@@ -1,5 +1,5 @@
 # export-wp-xml-to-markdown
-export wp xml to markdown for project : 
+export wordpress xml backup to markdown for project : 
 https://github.com/herijaya/maxsi.id
 step :
 1. export wp content
